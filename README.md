@@ -1,14 +1,8 @@
-# Ananta AyurHeart — V3
+# Ananta AyurHeart V5
+Production refinement for Cloudflare Pages.
 
-Stanford-inspired information architecture with an original Ananta AyurHeart visual identity.
+Upload the **contents of this folder** to the root of the GitHub repository. Existing files with the same names should be replaced. The `people/` and `assets/` folders must be preserved.
 
-- Homepage: mild botanical green
-- Academic profile pages: JARI-inspired blue
-- Separate ProfilePage + Person structured data for Dr. Avvinish Annant Narine and Dr. Fatemeh Moazzamipeiro
-- Responsive layout, researcher-profile links, sitemap and robots.txt
+V5 changes: real portraits; clean /people/ URLs; linked selected publications; unified navigation/footer; refined mobile profiles; Organization/ProfilePage/Person schema; OpenGraph metadata; sitemap/robots; editorial Ayurveda imagery.
 
-## Portraits
-The profile layouts are ready for the WikiAlpha portraits. Place owned/reusable portrait files in `assets/` and replace the `profile-photo` placeholder divs with image tags. This package intentionally does not scrape third-party image files.
-
-## Deploy free
-Upload all files to a GitHub repository, connect the repository to Cloudflare Pages, and deploy as a static site. After Cloudflare assigns the final `*.pages.dev` URL, update canonical URLs and sitemap if the project slug differs from `ananta-ayurheart`.
+Homepage photography uses free Unsplash-hosted images under the Unsplash License. Sources: iKshana Productions, National Cancer Institute, Pratiksha Mohanty.
