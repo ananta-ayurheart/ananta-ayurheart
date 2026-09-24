@@ -6,3 +6,6 @@ Upload the **contents of this folder** to the root of the GitHub repository. Exi
 V5 changes: real portraits; clean /people/ URLs; linked selected publications; unified navigation/footer; refined mobile profiles; Organization/ProfilePage/Person schema; OpenGraph metadata; sitemap/robots; editorial Ayurveda imagery.
 
 Homepage photography uses free Unsplash-hosted images under the Unsplash License. Sources: iKshana Productions, National Cancer Institute, Pratiksha Mohanty.
+
+
+V5.1 refinements: homepage now shows all four domains (Clinical Ayurveda, Research, Education, Innovation); selected publication links point to ResearchGate; DOI buttons removed.
